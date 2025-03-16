@@ -1,1 +1,1 @@
-ch 3x5 with dongle prospector
+charybdis 3x6 with dongle (prospector)

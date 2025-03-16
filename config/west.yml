@@ -1,4 +1,4 @@
-шеmanifest:
+manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/petejohanson
